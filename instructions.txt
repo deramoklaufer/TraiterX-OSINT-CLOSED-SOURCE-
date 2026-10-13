@@ -1,0 +1,61 @@
+Welcome to TrateX Osint Tool
+
+Introduction:
+
+The Code Must Be run in administrative cmd and also install those components
+
+File You Need To Run:
+something.py
+
+Methods To Run CMD In Administrator Mode:
+
+1. To open Command Prompt in administrator mode, type cmd in the Windows Start menu search bar and select Run as administrator.
+
+2. If It Doesnt Work like that or doesnt show contact @c_rop on discord, Or Search up methods starting cmd in administrator mode.
+
+
+Q & A
+
+Whats The Purpose of this code:
+
+Its a OSINT Tool coded in python which shows the logic of how easy you can be found.
+
+What language is this code in:
+Python, it may sound weak to you but its actually coded line by line carefully.
+
+Where to install python?:
+You can install python from their original website aka https://www.python.org/downloads/ (make sure to install the latest version)
+
+What modules do i need to install:
+
+the modules you need to install with pip are right below copy and paste in your cmd administrator
+
+pip install python-telegram-bot cryptography pygame pynput pyautogui opencv-python pyaudio pyperclip
+
+# Note
+
+If the code isnt running or showing that you dont have a module just do
+
+pip install (module name that is missing)
+
+-------------------------------------------------------------------------------------------------------
+
+M & A
+
+i will now reason why those components are needed to install
+
+python-telegram-bot = it will use a telegram bot which will identify a database and who youre searching for
+
+cryptography = it will decrypt/crypt every info it has found and will decrypt back in your machine if you wish for it to be downloaded
+
+pygame = gui/interactive mode
+
+pynput = input for osint to find through sources
+
+pyautogui = same as pygame gui/interactive mode
+
+opencv-python = saving media of what youve found through sources
+
+pyaudio = to play playable medias youve found through sources
+
+pyperclip = copying every information/result of the stuff youve found through medias
